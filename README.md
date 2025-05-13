@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # notesapp
 =======
 # Getting Started with Create React App
@@ -73,3 +74,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 >>>>>>> 63abbcb (Initialize project using Create React App)
+=======
+# noteapp
+>>>>>>> ba6d77999458ed12fe3fc6c343a82efdb9653a1f
